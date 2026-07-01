@@ -21,7 +21,7 @@ LangGraph agents, and production AI applications</h3>
 |---|---|---|
 | Chat with PDF | RAG, FAISS, Cohere Rerank, LangSmith, FastAPI | ✅ Live |
 | Support CRM | FastAPI, SQLite, Railway | ✅ Live |
-| AI Job Search Agent | LangGraph, Gemini, FastAPI, LangSmith | 🔨 Building |
+| AI Job Search Agent | LangGraph, Gemini, FastAPI, LangSmith | ✅ Live |
 
 ---
 
